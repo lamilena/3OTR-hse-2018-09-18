@@ -1,0 +1,173 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, li {
+  width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Amatic SC";
+  font-size: 220px;
+  font-weight: 900;
+  margin-top: 50px;
+  margin-right: 280px;
+}
+
+h2 {
+  position: relative;
+
+  max-height: 100px;
+  margin-top: 200px;
+
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+p {
+  width: 350px;
+  margin: 390px;
+  margin-top: 100px;
+
+  text-align: left;
+
+  font-family: "Amatic SC";
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+  color: #E3B23C
+}
+
+ul li {
+  width: 350px;
+  margin: 390px;
+  margin-top: -390px;
+
+  text-align: left;
+
+  font-family: "Open Sans Condensed";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.photo {
+  position: absolute;
+  right: 700px;
+
+  display: flex;
+
+  width: 350px;
+  height: 500px;
+  margin height: 100px;
+  margin-top: -560px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.hseday {
+  background-image: url(photos/hseday1.jpg);
+}
+
+.cat {
+  background-image: url(photos/cat.jpg);
+}
+
+.mir {
+  background-image: url(photos/mirha.jpg);
+}
+
+.why {
+  background-image: url(photos/why.jpg);
+}
+
+.prosmotr {
+  background-image: url(photos/prosmotr.jpg);
+}
+
+.vstrecha {
+  background-image: url(photos/vstrecha1.JPG);
+}
+
+.son1 {
+    background-image: url(photos/son1.jpg);
+}
+
+.son2 {
+  background-image: url(photos/ulitka.jpg);
+}
+
+.son3 {
+  background-image: url(photos/worry.jpg);
+}
+
+.number {
+  position: absolute;
+  right: 90px;
+
+  margin-top: -200px;
+  margin-right: 970px;
+
+  text-align: right;
+  letter-spacing: -0.03em;
+
+  font-family: "Amatic SC";
+  font-size: 70px;
+  line-height: 1.5;
+  line-height: 0.80em;
+}
+
+.letter {
+  margin-left: -85px;
+}
+
+#logo {
+	position: fixed;
+	top: 590px;
+	left: -260px;
+
+	width: 380px;
+	height: 20px;
+
+	text-align: right;
+	letter-spacing: 0.03em;
+
+	font-family:"Amatic SC";
+	font-size: 70px;
+
+}
+
+.me {
+  font-family:"Amatic SC";
+	font-size: 40px;
+  margin-top: -3300px;
+  margin-left: 1000px;
+  display: flex;
+}
+
+.me2 {
+  font-family:"Amatic SC";
+	font-size: 40px;
+  font-size: 40px;
+  margin-left: 1000px;
+  margin-top: -2330px;
+}
+
+.d {
+  color: #385F71
+}
+
+.noch {
+  color: #385F71
+}
